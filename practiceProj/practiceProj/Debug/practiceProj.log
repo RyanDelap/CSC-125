@@ -1,3 +1,0 @@
-﻿  greetings.cpp
-\\trace\class\csc-125\001\ryan3501\practices\practice1\greetings.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  practiceProj.vcxproj -> \\trace\Class\CSC-125\001\Ryan3501\practices\practiceProj\Debug\practiceProj.exe
