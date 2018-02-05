@@ -1,0 +1,3 @@
+﻿  war.cpp
+\\trace\class\csc-125\001\ryan3501\tests\quiz1\war.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  testProject.vcxproj -> \\trace\Class\CSC-125\001\Ryan3501\tests\testProject\Debug\testProject.exe
